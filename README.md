@@ -3,7 +3,7 @@
 
 Battle is a Python AI RPG 
 ## Installation
-I suggest you use Pycharm for testing testing this game and install all the required libraries you need to start this Game.
+I suggest you use Pycharm for testing this game and install all the required libraries you need to start this Game.
 
 ## The Purpose
 It was for testing or making an AI game.
